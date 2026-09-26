@@ -3,7 +3,7 @@
 **3rd Year B.Tech Cyber Security Student** | **CCST Networking Certified** | **ISC2 Candidate**  
 **Network Security Engineer Aspirant** | **Ethical Hacker** | **CTF Player**
 
-📍 Vadodara, Gujarat, India | 📧 kavymakhesana07@gmail.com | 📱 +91 93275 90912  
+📍 Vadodara, Gujarat, India | 📧 kavymakhesana07@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kavy-makhesana-77598a328/) | 🎯 [TryHackMe](https://tryhackme.com/p/KavyMakhesana) | 🌐 [Portfolio](https://kavymakhesana07-droid.github.io/)
 
 ---

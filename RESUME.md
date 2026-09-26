@@ -1,7 +1,7 @@
 # KAVY MAKHESANA
 **Network Administrator | Network Security Engineer | SOC Analyst**
 
-📍 Vadodara, Gujarat, India | 📞 +91 93275 90912 | ✉️ kavymakhesana07@gmail.com
+📍 Vadodara, Gujarat, India | ✉️ kavymakhesana07@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/kavy-makhesana-77598a328/) | 💻 [GitHub](https://github.com/kavymakhesana07-droid) | 🎯 [TryHackMe](https://tryhackme.com/p/KavyMakhesana)
 
 ---
