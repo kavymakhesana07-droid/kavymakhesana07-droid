@@ -4,7 +4,7 @@
 **Network Security Engineer Aspirant** | **Ethical Hacker** | **CTF Player**
 
 📍 Vadodara, Gujarat, India | 📧 kavymakhesana07@gmail.com | 📱 +91 93275 90912  
-🔗 [LinkedIn](https://www.linkedin.com/in/kavy-makhesana-77598a328/) | 🐙 [GitHub](https://github.com/kavymakhesana07-droid) | 🎯 [TryHackMe](https://tryhackme.com/p/KavyMakhesana)
+🔗 [LinkedIn](https://www.linkedin.com/in/kavy-makhesana-77598a328/) | 🎯 [TryHackMe](https://tryhackme.com/p/KavyMakhesana) | 🌐 [Portfolio](https://kavymakhesana07-droid.github.io/)
 
 ---
 
@@ -105,10 +105,11 @@ Detail-oriented Network Security Engineer with **Cisco CCST Networking certifica
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Live Portfolio
 
-![Kavy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavymakhesana07-droid&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavymakhesana07-droid&layout=compact&theme=tokyonight&hide_border=true)
+**[Visit my portfolio website →](https://kavymakhesana07-droid.github.io/)**
+
+Full breakdown of projects, architecture diagrams, skills matrix, and contact details.
 
 ---
 
@@ -116,7 +117,7 @@ Detail-oriented Network Security Engineer with **Cisco CCST Networking certifica
 
 I'm actively seeking **entry-level Network Administrator / Network Engineer / SOC Analyst** opportunities. Open to relocation.
 
-📧 **kavymakhesana07@gmail.com** | 💼 **LinkedIn** | 🐙 **GitHub**
+📧 **kavymakhesana07@gmail.com** | 💼 **LinkedIn** | 🌐 **Portfolio** | 🎯 **TryHackMe**
 
 ---
 
