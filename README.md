@@ -28,6 +28,7 @@ Detail-oriented Network Security Engineer with **Cisco CCST Networking certifica
 | **JavaScript** | Information Technology Specialists | Apr 2025 | ✅ **Completed** |
 | **Introduction to Modern AI** | Cisco Networking Academy | Apr 2025 | ✅ **Completed** |
 | **Ethical Hacker** | Cisco Networking Academy | Apr 2025 | ✅ **Completed** |
+| **Networking Basics** | Cisco Networking Academy | Sep 2026 | ✅ **Completed** |
 
 ---
 
