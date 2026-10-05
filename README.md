@@ -53,13 +53,16 @@ Detail-oriented Network Security Engineer with **Cisco CCST Networking certifica
 
 ## 🚀 Featured Projects
 
-### 🔥 **AI Network Anomaly Detection System** 🚧 *In Progress (Capstone)*
+## 🚀 Featured Projects
+
+### 🔥 **AI Network Anomaly Detection System** ✅ **v0.1.0 Released (Complete)**
 > **Production-grade hybrid ML anomaly detection for network traffic**  
 > **Tech:** Python, PyTorch, Kafka/Redpanda, Kubernetes, ONNX, Redis, Grafana  
 > **Architecture:** Pluggable ingestors (PCAP, Live, NetFlow, Zeek, Cloud) → Unified feature extraction → Tiered detection (Fast Path: Isolation Forest + ONNX Runtime <10ms | Deep Path: LSTM-AE + XGBoost + GNN) → Alert correlation → Multi-output (SIEM, Dashboard, ChatOps)  
 > **ML Approach:** Hybrid unsupervised pre-training (LSTM Autoencoder on normal traffic) + supervised fine-tuning (XGBoost on CICIDS/UNSW-NB15)  
 > **Deployment:** k3d local K8s + Docker Compose + GitHub Actions CI/CD + GitOps (ArgoCD)  
-> **Repo:** [github.com/kavymakhesana07-droid/ai-network-anomaly-detection](https://github.com/kavymakhesana07-droid/ai-network-anomaly-detection)
+> **Repo:** [github.com/kavymakhesana07-droid/ai-network-anomaly-detection](https://github.com/kavymakhesana07-droid/ai-network-anomaly-detection)  
+> **Release:** [v0.1.0](https://github.com/kavymakhesana07-droid/ai-network-anomaly-detection/releases/tag/v0.1.0)
 
 ### 🛡️ **Cyber Security Operations Simulation** (Datacom via Forage)
 > Diagnosed simulated network/connectivity tickets (LAN/WAN, DNS, DHCP, VPN) using structured IT support methodology. Documented technical resolutions and best practices.
