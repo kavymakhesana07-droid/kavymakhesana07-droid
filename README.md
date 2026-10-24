@@ -115,12 +115,6 @@ Full breakdown of projects, architecture diagrams, skills matrix, and contact de
 
 ---
 
-## 🤝 Let's Connect
-
-I'm actively seeking **entry-level Network Administrator / Network Engineer / SOC Analyst** opportunities. Open to relocation.
-
-📧 **kavymakhesana07@gmail.com** | 💼 **LinkedIn** | 🌐 **Portfolio** | 🎯 **TryHackMe**
-
 ---
 
 *"Security is not a product, it's a process. I build processes that scale."*
