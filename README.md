@@ -53,8 +53,6 @@ Detail-oriented Network Security Engineer with **Cisco CCST Networking certifica
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🔥 **AI Network Anomaly Detection System** ✅ **v0.2.0 Released (Complete)**
 > **Production-grade hybrid ML anomaly detection for network traffic**  
 > **Tech:** Python, PyTorch, Kafka/Redpanda, Kubernetes, ONNX, Redis, Grafana  
@@ -124,12 +122,6 @@ Detail-oriented Network Security Engineer with **Cisco CCST Networking certifica
 Full breakdown of projects, architecture diagrams, skills matrix, and contact details.
 
 ---
-
-## 🤝 Let's Connect
-
-I'm actively seeking **entry-level Network Administrator / Network Engineer / SOC Analyst** opportunities. Open to relocation.
-
-📧 **kavymakhesana07@gmail.com** | 💼 **LinkedIn** | 🌐 **Portfolio** | 🎯 **TryHackMe**
 
 ---
 
