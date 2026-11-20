@@ -53,6 +53,14 @@ Detail-oriented Network Security Engineer with **Cisco CCST Networking certifica
 
 ## 🚀 Featured Projects
 
+### 🌐 **Enterprise Campus Network Lab** 🔧 **Configs validated · Packet Tracer testing in progress**
+> **Two-site enterprise network (HQ campus + branch) in Cisco IOS: segmentation, routing, secure branch connectivity and hardening**  
+> **Tech:** Cisco IOS, Packet Tracer, Python, GitHub Actions  
+> **Design:** 802.1Q VLANs (Faculty, Students, IT-Admin, Servers, Mgmt) → Rapid-PVST+ + LACP → Layer 3 core with inter-VLAN routing and per-VLAN ACLs → OSPF to the edge router → PAT + IPsec site-to-site VPN to the branch  
+> **Security:** SSH-only management restricted to the IT-Admin subnet, port security, DHCP snooping, BPDU guard, NAT exemption for VPN traffic  
+> **Validation:** Python script runs 112 consistency checks across 7 device configs in CI; build guide, verification checklist and 7 break/fix troubleshooting scenarios included  
+> **Repo:** [github.com/kavymakhesana07-droid/enterprise-campus-network-lab](https://github.com/kavymakhesana07-droid/enterprise-campus-network-lab)
+
 ### 🔥 **AI Network Anomaly Detection System** ✅ **v0.2.0 Released (Complete)**
 > **Production-grade hybrid ML anomaly detection for network traffic**  
 > **Tech:** Python, PyTorch, Kafka/Redpanda, Kubernetes, ONNX, Redis, Grafana  
